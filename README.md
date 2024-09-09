@@ -1,7 +1,5 @@
-Certainly! Here’s a README.md template tailored for a student with skills in Python, C programming, HTTP programming, and Microsoft Office suites. It includes sections for your skills, projects, and how to reach you, and is styled to be visually appealing.
-
 ```markdown
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Adeeba Ekbal. 👋
 
 Welcome to my GitHub profile! I'm a student with a growing passion for technology and programming. Here, you'll find projects and contributions that showcase my skills in Python, C programming, HTTP programming, and more.
 
@@ -11,15 +9,6 @@ Welcome to my GitHub profile! I'm a student with a growing passion for technolog
 - **Web Technologies**: HTTP Programming
 - **Tools**: Microsoft Office Suite
 
-## 🚀 Projects
-
-### [Project Name 1](link-to-project)
-A brief description of the project. For example: "A Python-based application for managing tasks efficiently."
-
-### [Project Name 2](link-to-project)
-A brief description of another project. For example: "A C programming project that implements a custom data structure."
-
-Feel free to explore these projects and check out the code!
 
 ## 📚 Currently Learning
 
@@ -28,9 +17,7 @@ Feel free to explore these projects and check out the code!
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter**: [Your Twitter Profile](link-to-twitter)
-- **Email**: [Your Email Address](mailto:your-email@example.com)
+- **Email**: adeebaekbal@gmail.com
 
 ## 📈 GitHub Stats
 
