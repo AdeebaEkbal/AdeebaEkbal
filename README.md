@@ -1,7 +1,7 @@
 ```markdown
 # Hello, I'm Adeeba Ekbal. 👋
 
-Welcome to my GitHub profile! I'm a student with a growing passion for technology and programming. Here, you'll find projects and contributions that showcase my skills in Python, C programming, HTTP programming, and more.
+Welcome to my GitHub profile! I'm a student with a growing passion for technology and programming. Here, you'll find projects and contributions that showcase my skills in Python, C programming, HTTP programming, and more. I recently participated in the Python Workshop held by ZHCET.
 
 ## 🛠 Skills & Technologies
 
