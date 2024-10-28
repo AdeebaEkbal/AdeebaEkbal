@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a student with a growing passion for technolog
 ## 📚 Currently Learning
 
 - Advanced Python Techniques
-- Web Development with HTTP and RESTful APIs
+- C Programming
 
 ## 🌐 Connect with Me
 
