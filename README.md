@@ -1,41 +1,32 @@
-```markdown
-# Hello, I'm Adeeba Ekbal. 👋
+# Hello, I'm ADEEBA EKBAL. 👋
 
-Welcome to my GitHub profile! I'm a student with a growing passion for technology and programming. Here, you'll find projects and contributions that showcase my skills in Python, C programming, HTTP programming, and more. I recently participated in the Python Workshop held by ZHCET.
+Welcome to my GitHub profile! I'm a third-year BCA student with a strong focus on software development, web technologies, and database management. I love exploring how data and logic come together to solve problems, and I am actively expanding my knowledge in AI/ML and full-stack development. 
+
+🏆 **Recent Highlights:** 
+* Secured 2nd prize in the quiz category at AMUHacks 5.0 (Team Cipher Pol).
+* Participated in the Python Workshop held by ZHCET.
+* Currently building and publishing machine learning data analysis projects.
 
 ## 🛠 Skills & Technologies
 
-- **Languages**: Python, C
-- **Web Technologies**: HTTP Programming
-- **Tools**: Microsoft Office Suite
-
+- **Languages:** Python, C, Java, HTML
+- **Databases & Concepts:** SQL, DBMS, Discrete Mathematics
+- **Tools & Environments:** VS Code, Git, Microsoft Office Suite
 
 ## 📚 Currently Learning
 
-- Advanced Python Techniques
-- C Programming
+- Machine Learning fundamentals and Data Analysis
+- Advanced Python techniques and C Programming
+- Web Development
 
 ## 🌐 Connect with Me
 
-- **Email**: adeebaekbal@gmail.com
+- **Email:** adeebaekbal@gmail.com
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![ADEEBA EKBAL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
-```
-
-### **Adding Images and Styles:**
-
-1. **Profile Image**: To add a profile image, simply upload your profile picture to GitHub, and use the default GitHub interface to set it.
-
-2. **GitHub Stats**: To display your GitHub stats, use the GitHub Readme Stats service. Customize the link by replacing `your-github-username` with your actual GitHub username. You can also customize themes and stats details. For more details, visit [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-3. **Badges and Shields**: Add relevant badges to your README for a more professional touch. You can find badges for various technologies and services at [Shields.io](https://shields.io/).
-
-4. **Styling**: Use Markdown to style your README. Emphasize key sections with headers, bold text, and bullet points. 
-
-Customize this template with your specific projects, contact details, and GitHub username, and it should serve as an effective introduction to your GitHub profile.
+Feel free to explore my repositories. I am always open to collaborating on interesting projects, don't hesitate to reach out!
